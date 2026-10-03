@@ -1,0 +1,14 @@
+university	1	3	1.315514613606e-01	Computer Science
+university	2	1	1.304816555210e-01	University of Illinois
+university	3	6	1.183572000413e-01	Graph Theory
+university	4	4	1.309678187170e-02	Stanford University
+university	5	9	1.309678187170e-02	University Press
+data map	1	2	2.050176276183e-01	Data Systems
+data map	2	5	5.162370970977e-02	MapReduce
+data map	3	10	2.948791210703e-02	Search Engine
+graph	1	6	2.748169080081e-01	Graph Theory
+graph	2	7	2.640041573007e-01	Random Walks
+search engine	1	4	5.315844528597e-02	Stanford University
+search engine	2	10	5.315844528597e-02	Search Engine
+the of	0			
+zebra	0			

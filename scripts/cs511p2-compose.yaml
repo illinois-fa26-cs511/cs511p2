@@ -1,0 +1,25 @@
+name: cs511p2
+services:
+   main:
+      image: cs511p2-main
+      hostname: main
+      tty: true
+      stdin_open: true
+      ports:
+        - 8080:8080
+        - 8081:8081
+        - 4040:4040
+        - 8000:8000
+      command: ["/bin/bash", "start-main.sh"]
+   worker1:
+      image: cs511p2-worker
+      hostname: worker1
+      tty: true
+      stdin_open: true
+      command: ["/bin/bash", "start-worker.sh"]
+   worker2:
+      image: cs511p2-worker
+      hostname: worker2
+      tty: true
+      stdin_open: true
+      command: ["/bin/bash", "start-worker.sh"]

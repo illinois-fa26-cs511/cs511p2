@@ -1,0 +1,13 @@
+{"id":1,"title":"University of Illinois","text":"The university teaches data systems and computer science. Data, data.","links":[2,3,3,1]}
+{"id":2,"title":"Data Systems","text":"Data systems store and map data across computers.","links":[3]}
+{"id":3,"title":"Computer Science","text":"Computer science studies data, maps and computers. University research.","links":[1]}
+{"id":4,"title":"Stanford University","text":"Stanford is a university. Its search engine ranked pages.","links":[1,999,8]}
+{"id":5,"title":"MapReduce","text":"Map maps data; reduce reduces mapped data.","links":[]}
+{"id":6,"title":"Graph Theory","text":"Graph theory studies links between pages. University courses teach graphs.","links":[7]}
+{"id":7,"title":"Random Walks","text":"A random walk follows links on a graph at random.","links":[6,8]}
+{"id":8,"title":"Web Search","text":"Web search engines rank pages by links. Search data.","links":[6,12]}
+{"id":9,"title":"University Press","text":"A university press publishes books about data."}
+{"id":10,"title":"Search Engine","text":"A search engine answers queries over data. Map the web.","links":["x",2,2.5,5]}
+{"id":"12","title":"Bad identifier","text":"The id of this record is a string, not an integer.","links":[1]}
+[11,"not an object"]
+not-json

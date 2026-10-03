@@ -1,0 +1,132 @@
+university	1	884	3.005201475067e-01	University
+university	2	856	5.735061221267e-02	United Kingdom
+university	3	566	3.657177963825e-02	New York City
+university	4	3047	2.547108379196e-02	England
+university	5	8740	2.473061087316e-02	Evolution
+university	6	121093	2.381416636186e-02	University of Cambridge
+university	7	219587	1.720774407748e-02	United States
+university	8	17333	1.714373684729e-02	Philadelphia
+university	9	502310	1.473123359456e-02	Human
+university	10	426	9.302846934872e-03	Law
+computer science	1	700	4.873744087387e-01	Science
+computer science	2	112	1.790183104141e-01	Computer
+computer science	3	110	6.979917374651e-02	Computer science
+computer science	4	108	4.117920924233e-02	Chemistry
+computer science	5	17651	3.803433066680e-02	Science fiction
+computer science	6	502310	2.506202934913e-02	Human
+computer science	7	418926	1.623212963067e-02	Natural science
+computer science	8	591	1.293512190883e-02	Physics
+computer science	9	467	1.280524397966e-02	Mathematics
+computer science	10	2957	1.227846157660e-02	Computer program
+river france	1	291	9.747307112098e-01	France
+river france	2	28272	3.740078823048e-01	Departments of France
+river france	3	219587	1.886947828551e-01	United States
+river france	4	939	1.735336283524e-01	Water
+river france	5	219837	6.525722616775e-02	World War II
+river france	6	363	4.233410971301e-02	Italy
+river france	7	120	3.719705714008e-02	China
+river france	8	856	3.333855528318e-02	United Kingdom
+river france	9	219828	3.235212623788e-02	Germany
+river france	10	144	3.158603889893e-02	City
+search engine	1	700	1.778726552140e-02	Science
+search engine	2	774	1.161453994901e-02	Search engine
+search engine	3	310	8.851777009764e-03	Google
+search engine	4	264968	7.230349687594e-03	Google Search
+search engine	5	908	3.530660174272e-03	Website
+search engine	6	483	3.378395864450e-03	Microsoft
+search engine	7	593499	2.546764928091e-03	Subsidiary
+search engine	8	48056	2.247309304338e-03	YouTube
+search engine	9	262497	1.610244126186e-03	Cosworth
+search engine	10	60362	1.364738692929e-03	Heuristic
+stanford	1	41309	6.350765787039e-03	Stanford University
+stanford	2	5961	4.388742888163e-03	Hinduism
+stanford	3	1942	4.136603586526e-03	Africa
+stanford	4	884	3.846539730543e-03	University
+stanford	5	310	1.705585574771e-03	Google
+stanford	6	117	1.677072462060e-03	Continent
+stanford	7	236937	1.346027637024e-03	Prefectures of Japan
+stanford	8	2901	1.188434887373e-03	Gravity
+stanford	9	4494	9.631727189606e-04	Aristotle
+stanford	10	52765	9.076530509228e-04	Silicon Valley
+champaign	1	123065	7.930281780670e-04	United States metropolitan area
+champaign	2	14875	5.867091070617e-04	Constantinople
+champaign	3	112260	5.688904071046e-04	University of Illinois Urbana-Champaign
+champaign	4	146730	3.615521039167e-04	Cornell University
+champaign	5	23554	3.512221850852e-04	Roger Ebert
+champaign	6	220487	2.905480502822e-04	Medical school
+champaign	7	116261	1.952280561112e-04	Association of American Universities
+champaign	8	56763	1.568754381171e-04	Biomass
+champaign	9	815814	1.493387181224e-04	List of current members of the United States House of Representatives
+champaign	10	305147	1.430299230989e-04	Emblem
+illinois	1	11192	6.061284776915e-02	Illinois
+illinois	2	219587	2.791084172209e-02	United States
+illinois	3	10193	1.620912750719e-02	Chicago
+illinois	4	144	1.605713908309e-02	City
+illinois	5	13404	6.694929123457e-03	Democratic Party (United States)
+illinois	6	368998	3.783199310025e-03	2020 United States Census
+illinois	7	5414	3.718661970590e-03	Abraham Lincoln
+illinois	8	4546	3.406240572979e-03	Ronald Reagan
+illinois	9	223430	3.115656913637e-03	Barack Obama
+illinois	10	884	2.918811964161e-03	University
+music	1	472	2.255827995336e-01	Music
+music	2	219587	5.896527552968e-02	United States
+music	3	2041	4.334862527697e-02	Pop music
+music	4	939	3.155475030284e-02	Water
+music	5	5022	2.942707844360e-02	Classical music
+music	6	12945	2.470473069870e-02	Rock and roll
+music	7	502310	2.355690828188e-02	Human
+music	8	24302	1.640386692447e-02	Folk music
+music	9	566	1.285327715821e-02	New York City
+music	10	112	1.134586009226e-02	Computer
+city	1	566	1.985056488903e-01	New York City
+city	2	144	1.746342045338e-01	City
+city	3	219587	1.291713542569e-01	United States
+city	4	1968	7.542042331924e-02	Capital city
+city	5	460	6.787956111318e-02	London
+city	6	10193	5.251108084060e-02	Chicago
+city	7	5937	5.177389094803e-02	Town
+city	8	219832	4.031234448344e-02	Spain
+city	9	856	3.444056914661e-02	United Kingdom
+city	10	3015	3.275741972386e-02	Los Angeles
+world war	1	219587	1.306453379286e+00	United States
+world war	2	219837	3.428102998163e-01	World War II
+world war	3	219828	2.154082483108e-01	Germany
+world war	4	291	1.853471383873e-01	France
+world war	5	219834	1.605652610335e-01	World War I
+world war	6	939	1.060589725384e-01	Water
+world war	7	856	9.806655298034e-02	United Kingdom
+world war	8	3047	8.185514871295e-02	England
+world war	9	502310	7.931407366006e-02	Human
+world war	10	403	7.737597004860e-02	Japan
+olympic games	1	5290	2.409893016483e-01	Olympic Games
+olympic games	2	291	7.256876190078e-02	France
+olympic games	3	219828	3.421455198221e-02	Germany
+olympic games	4	403	3.410169931068e-02	Japan
+olympic games	5	27	3.193191879400e-02	Australia
+olympic games	6	2964	2.671319207077e-02	Russia
+olympic games	7	2062	2.462781318501e-02	Association football
+olympic games	8	460	2.279523677580e-02	London
+olympic games	9	26435	2.110326263011e-02	Summer Olympic Games
+olympic games	10	168777	1.969306024580e-02	List of IOC country codes
+barack obama	1	219587	1.534694508863e-01	United States
+barack obama	2	223430	5.084835864139e-02	Barack Obama
+barack obama	3	11192	2.013065124475e-02	Illinois
+barack obama	4	10193	1.234522491833e-02	Chicago
+barack obama	5	13404	1.227082420193e-02	Democratic Party (United States)
+barack obama	6	7174	1.046018991909e-02	President of the United States
+barack obama	7	4109	7.033985162771e-03	George W. Bush
+barack obama	8	13403	4.974479777097e-03	Republican Party (United States)
+barack obama	9	63654	3.518171683449e-03	Donald Trump
+barack obama	10	245824	3.425345840157e-03	2012 United States presidential election
+data network	1	700	4.724880975626e-02	Science
+data network	2	112	4.602422167487e-02	Computer
+data network	3	110	2.048561071443e-02	Computer science
+data network	4	362	1.975220886997e-02	Internet
+data network	5	39657	1.958684070834e-02	Database
+data network	6	316702	1.646876404326e-02	Computer network
+data network	7	10193	1.050506907183e-02	Chicago
+data network	8	2024	4.900351595122e-03	IP address
+data network	9	905	4.430254458326e-03	World Wide Web
+data network	10	97328	3.472641481914e-03	United States Geological Survey
+the of	0			
+qwxzv	0			
